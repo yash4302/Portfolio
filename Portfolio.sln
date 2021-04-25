@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E239C7CE-5D6D-4804-86CE-74DD101B3AFD}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		portfolio.html = portfolio.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{CC90E298-DECF-4838-910A-2C3A8162C319}"
+	ProjectSection(SolutionItems) = preProject
+		css\style.css = css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{E46519B2-9B31-450E-B383-9F596EE31420}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "javascript", "javascript", "{A6DA0181-8F6E-46B5-9C8C-F725E85696CA}"
+	ProjectSection(SolutionItems) = preProject
+		javascript\active.js = javascript\active.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC90E298-DECF-4838-910A-2C3A8162C319} = {E239C7CE-5D6D-4804-86CE-74DD101B3AFD}
+		{E46519B2-9B31-450E-B383-9F596EE31420} = {E239C7CE-5D6D-4804-86CE-74DD101B3AFD}
+		{A6DA0181-8F6E-46B5-9C8C-F725E85696CA} = {E239C7CE-5D6D-4804-86CE-74DD101B3AFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176BB644-6B2F-4D8F-BBEA-2E23F778D1D1}
+	EndGlobalSection
+EndGlobal

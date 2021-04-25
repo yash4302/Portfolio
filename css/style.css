@@ -1,0 +1,84 @@
+﻿.BODY
+{
+	
+}
+
+header {
+	text-align: center;
+	background-color: #282828;
+	color: #ffffff;
+	padding-top: 1%;
+	font-size: 110%;
+	margin-bottom: 25px;
+}
+
+	header h1 {
+		letter-spacing: 15px;
+		margin-bottom: 1%;
+		font-size: 250%;
+	}
+
+nav
+{
+	background-color: crimson;
+}
+
+	nav a
+	{
+		margin: 0.5% 5%;
+		display: inline-block;
+		color: white;
+	}
+
+h2
+{
+	text-align: center;
+}
+
+#info {
+	margin: 75px 0;
+	margin-right: 2%;
+	text-align: center;
+	float: right;
+	background-color: aquamarine;
+}
+
+.email
+{
+	color: crimson;
+}
+
+#photo {
+	margin-top: -30%;
+	border-color: aquamarine;
+	border-radius: 50%;
+	width: 50%;
+}
+
+i
+{
+	margin-left: 9%;
+	margin-right: 9%;
+}
+
+#education h4
+{
+	text-align: center;
+}
+
+.sect
+{
+	display: inline-block;
+}
+
+.logo {
+	width: 125px;
+	float: left;
+	margin: 0 20px;
+}
+
+footer
+{
+	clear: both;
+	text-align: center;
+}
